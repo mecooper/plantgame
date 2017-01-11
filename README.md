@@ -1,5 +1,9 @@
 # plantgame
-hi
+<html>
+
+<script>
+
+
 var myGamePiece;
 
 function startGame() {  
@@ -16,3 +20,5 @@ var myGameArea = { 
     document.body.insertBefore(this.canvas, document.body.childNodes[0]);  
   }
 }
+
+</script>
