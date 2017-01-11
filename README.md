@@ -1,9 +1,7 @@
 # plantgame
-<html>
+
 
 <script>
-
-
 var myGamePiece;
 
 function startGame() {  
