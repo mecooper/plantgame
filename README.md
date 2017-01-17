@@ -7,7 +7,7 @@
     }
   </style>
 </head>
-<body>
+<body onload="startGame()">
   <script>
   var myGamePiece;
 
