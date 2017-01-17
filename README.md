@@ -1,5 +1,4 @@
 # plantgame
-<!DOCTYPE html>
 <html>
 <head>
   <style>
