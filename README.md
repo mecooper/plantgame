@@ -9,7 +9,9 @@
 </head>
 <body onload="startGame()">
   <script>
-  var myGamePiece;
+  //var myGamePiece;
+  var canvas = document.getElementbyId("canvas");
+  var ctx = canvas.getContext("2d");
 
   function startGame() {  
     myGameArea.start();  
